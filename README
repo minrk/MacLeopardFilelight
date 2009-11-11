@@ -1,0 +1,8 @@
+This is just a build update to the apparently abandoned macfilelight at
+http://developer.berlios.de/projects/macfilelight/
+This is a fork of the svn trunk of that project
+
+MinRK's only contributions are updating the XCode project to build for OSX 10.5 and later,
+and providing the results of that build.
+
+All real code (C) 2006 Dave Vasilevsky, which is GPLv2
